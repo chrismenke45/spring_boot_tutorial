@@ -1,1 +1,1 @@
-[Java Spring Boot tutorial](https://spring.io/guides/gs/spring-boot/) that I am following to get started with the framework.
+[Java Spring Boot tutorial](https://spring.io/guides/gs/spring-boot/) that I followed to get started with the framework. This is [the last commit of the tutorial](https://github.com/chrismenke45/spring_boot_tutorial/commit/2967290e03f442ddde1e7ce67ac2149c59727628). Everything after this is me trying to get a feel for how to do things with Spring Boot.
